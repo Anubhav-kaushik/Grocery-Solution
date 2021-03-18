@@ -1,0 +1,27 @@
+.main_header {
+    display: flex;
+    background: linear-gradient(rgb(233, 106, 106), rgb(35, 35, 236));
+    width: 100vw;
+    height: 15vh;
+    margin: 0 calc(-50vw + 50%);   
+}
+
+.logo {
+    height: 100%;
+    width: 20%;
+    background-color: aqua;
+
+}
+
+.nav {
+    height: 100%;
+    width: 60%;
+    background-color: rgb(255, 94, 0);
+    
+}
+
+.search_bar {
+    height: 100%;
+    width: 20%;
+    background-color: rgb(9, 255, 0); 
+}
